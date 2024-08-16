@@ -1,7 +1,9 @@
 # Tendable Coding Assessment
 ## run
-run the command npm install in the root folder to install dependencies
+```sh
+run npm install in the root folder to install dependencies
 run npm start to start the app
+```
 
 ## Usage
 
