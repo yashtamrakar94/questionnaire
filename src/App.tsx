@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import Question from './Question.js';
+import Question from './Question';
 import NodeCache from 'node-cache';
-import { QUESTIONS } from './questions.js';
+import { QUESTIONS } from './questions';
 
 const cache = new NodeCache();
 
